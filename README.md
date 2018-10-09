@@ -14,6 +14,5 @@ setCurrentStep(1);  //设置当前进度
 <attr name="step_txt_margin_top" format="dimension"/>
 <attr name="step_circle_radius" format="dimension"/>
 ```
-展示
 <img src="https://github.com/juwulu/StepView/blob/master/art/Screenshot_2018-10-09-14-35-23-696_com.jwl.stepvi.png" height="600" alt="图片展示"/>
 
