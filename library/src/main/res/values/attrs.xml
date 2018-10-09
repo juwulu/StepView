@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StepView">
+        <attr name="step_count" format="integer"/>
+        <attr name="step_finish_color" format="color"/>
+        <attr name="step_unfinish_color" format="color"/>
+        <attr name="step_number_text_size" format="dimension"/>
+        <attr name="step_bottom_text_size" format="dimension"/>
+        <attr name="step_txt_margin_top" format="dimension"/>
+        <attr name="step_circle_radius" format="dimension"/>
+    </declare-styleable>
+</resources>
